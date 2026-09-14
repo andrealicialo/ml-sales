@@ -14,10 +14,10 @@ Applications:
 
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/41b8c2ee-788e-427c-b42a-0634b8b7b02e" />
 
-Note: The predicted line can be adjusted for better accuracy, using more data.
+Note: The predicted line can be adjusted using more data, for better accuracy.
 
 
-3. K-Means Clustering (unsupervised)
+2. K-Means Clustering (unsupervised)
    
 K-Means clustering is an unsupervised machine learning method that groups unlabeled sales or customer data into K distinct clusters based on feature similarities.
 Applications: 
@@ -28,7 +28,7 @@ Applications:
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/3282deea-2ff9-4d5a-ba86-7119c0409ddc" />
 
 
-5. Q-Learning (reinforcement learning)
+3. Q-Learning (reinforcement learning)
    
 Helps sales teams optimize decision-making, dynamic pricing, and customer engagement by learning the best actions through trial and error.
 Applications: 
@@ -38,5 +38,3 @@ Applications:
 
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/acca4b6f-40e7-4910-b58e-413ecafb195f" />
 
-
-7. Connecting to SQLite (SQL) and plotting with matplotlib.
