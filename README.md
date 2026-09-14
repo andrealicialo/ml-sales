@@ -14,6 +14,8 @@ Applications:
 
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/41b8c2ee-788e-427c-b42a-0634b8b7b02e" />
 
+Note: The predicted line can be adjusted for better accuracy, using more data.
+
 
 3. K-Means Clustering (unsupervised)
    
