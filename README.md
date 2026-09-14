@@ -1,10 +1,10 @@
 # ml-sales
 
-Examples of Machine Learning for Sales
+## Examples of Machine Learning for Sales
 
 Includes:
 
-1. Random Forest (supervised)
+### 1. Random Forest (supervised)
    
 A random forest analysis for sales uses a machine learning method that combines many decision trees to predict future sales numbers and find out which factors drive customer purchases.
 Applications: 
@@ -17,7 +17,7 @@ Applications:
 Note: The predicted line can be adjusted using more data, for better accuracy.
 
 
-2. K-Means Clustering (unsupervised)
+### 2. K-Means Clustering (unsupervised)
    
 K-Means clustering is an unsupervised machine learning method that groups unlabeled sales or customer data into K distinct clusters based on feature similarities.
 Applications: 
@@ -28,7 +28,8 @@ Applications:
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/3282deea-2ff9-4d5a-ba86-7119c0409ddc" />
 
 
-3. Q-Learning (reinforcement learning)
+
+### 3. Q-Learning (reinforcement learning)
    
 Helps sales teams optimize decision-making, dynamic pricing, and customer engagement by learning the best actions through trial and error.
 Applications: 
